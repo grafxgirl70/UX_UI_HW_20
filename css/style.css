@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1, h2, h3 , h4, h5, h6 {
+	font-family: 'Poppins', sans-serif;
+}
+p {
+	font-family: 'Lato', sans-serif;
+}
+
+.Header {
+	position: fixed; 
+	width: 100%;
+	background: url("images/transparency.png");
+	background-color: #ffffff !important;
+	background-size: cover;
+	z-index: 10;
+}
+
+.HeaderLogo img {
+	padding-right: 200px;
+	width: 284px;
+	height: auto;
+	margin: 10px;
+	float: left;
+	vertical-align: middle;
+}
+.social img {
+	padding-right: 30%;
+	margin: 10px;
+	vertical-align: middle;
+}
+.Hero img {
+	width: 100%;
+	height: auto;
+}
+.responsive a {
+	width: 100%;
+	height: auto;
+	margin: 30px;
+	color: #1F6659;
+	font: 'Lato' , Sans-serif;
+	font-we: 700;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+}
+.responsive a hover {
+	width: 100%;
+	height: auto;
+	margin: 30px;
+	color: #1DE8964;
+	font: 'Lato' , Sans-serif;
+	font-we: 700;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+}
+a {
+	color: #1F6659;
+	font: 'Lato' , Sans-serif;
+	font-we: 700;
+	font-size: 18px;
+	text-align: center;
+}
+a hover {
+	color: #1DE8964;
+	font: 'Lato' , Sans-serif;
+	font-we: 700;
+	font-size: 18px;
+	text-align: center;
+}
